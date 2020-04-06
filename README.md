@@ -13,3 +13,5 @@ Vous trouverez toutes les informations utiles pour la compilation et l'exécutio
 De plus, si vous souhaitez expérimenter ce solveur avec un autre graphe, il vous suffira de créer votre propre fichier dimacs (à l'effigie du fichier graph.dimacs) en respectant quelques règles.  
 
 Bonne utilisation !
+
+PS : Ce projet nécessite l'obtention de l'API lp_solve pour c++.
