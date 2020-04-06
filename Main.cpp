@@ -1,6 +1,6 @@
 // K-Coloration d'un graphe avec l'API lp_solve
 
-// Compilation et lancement du programme : g++ 21700336.cpp -llpsolve55 -lcolamd -ldl -o dm && ./dm graph.dimacs
+// Compilation et lancement du programme : g++ Main.cpp -llpsolve55 -lcolamd -ldl -o dm && ./dm graph.dimacs
 
 // DM rédigé et complété par Emmanuel Garreau, 21700336, L2 Informatique, Groupe 1B
 
