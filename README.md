@@ -1,4 +1,4 @@
-# K-Coloration-de-graphe
+# K-Coloration d'un graphe
 
 Bienvenue sur le projet "Résolution du problème de K-Coloration d'un graphe" conçu dans le cadre de l'UE Sécurité et Aide à la Décision de la L2 Informatique, à l'Université de Caen Normandie.
 Il s'agit d'un projet ayant pour objectif l'implémentation d'un solveur du problème mathématique de K-Coloration à l'aide du paradigme de la programmation linéaire et de l'API lp_solve.
