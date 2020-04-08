@@ -20,7 +20,7 @@ a) Il y a deux séries de variables :
                                  c appartient à [1, k_max] et S appartient à E.
 
       - 2) k_max variables : on attribue une variable pour chaque couleur telle que si la couleur est utilisée, Couleur_c = 1, sinon
-                             Couleur_c = 0 avec C appartient à [1, k_max].
+                             Couleur_c = 0 avec c appartient à [1, k_max].
     
     On a donc un total de ( (k_max * n) + k_max ) variables.
 
