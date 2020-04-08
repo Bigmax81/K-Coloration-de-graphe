@@ -2,7 +2,7 @@
 
 // Compilation et lancement du programme : g++ Main.cpp -llpsolve55 -lcolamd -ldl -o dm && ./dm graph.dimacs
 
-// DM rédigé et complété par Emmanuel Garreau, 21700336, L2 Informatique, Groupe 1B
+// DM rédigé et complété par Emmanuel Garreau, L2 Informatique, Groupe 1B
 
 /* Partie réponse : modélisation mathématique
 
